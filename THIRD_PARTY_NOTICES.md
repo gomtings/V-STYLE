@@ -27,5 +27,7 @@ V-STYLE은 아래 오픈소스, AI 모델, 데이터를 사용합니다. 각 라
 - MIT License: ONNX Runtime
 
 ## 날씨 데이터
+날씨는 앱이 직접 받지 않고 **우리 서버가 대신 받아 전해 줍니다.** 앱은 서버가 준 출처 문구를 날씨 카드에 표시합니다.
+
 - **기상청** 동네예보(기상청 API허브): 이용 조건은 기상청 API허브의 이용약관을 따르며, 출처는 "기상청"입니다.
 - **Open-Meteo.com**: Weather data by [Open-Meteo.com](https://open-meteo.com), CC BY 4.0. 무료 이용은 비상업 목적에 한합니다.
